@@ -1,5 +1,5 @@
-# Genetic Algorithm from Scratch
-Hasil eksperimen pembuatan algoritma Genetic Algorithm from scratch pada penyelesaian studi khusus.
+# Genetic Algorithm from Scratch in mathematical study case
+Hasil eksperimen pembuatan algoritma Genetic Algorithm from scratch pada penyelesaian studi khusus matematis.
 
 ## Daftar Isi
 - [Tentang Proyek](#tentang-proyek)
