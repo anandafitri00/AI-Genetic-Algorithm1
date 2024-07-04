@@ -10,7 +10,7 @@ Hasil eksperimen pembuatan algoritma Genetic Algorithm from scratch pada penyele
 ## Tentang Proyek
 Proyek ini merupakan hasil studi khusus yang bertujuan untuk mengembangkan algoritma Genetic Algorithm (GA) dari awal tanpa menggunakan pustaka eksternal yang sudah ada. Tujuannya adalah untuk memahami secara mendalam bagaimana GA bekerja.
 
-## Penggunaan
+# Penggunaan
 Anda bisa menjalankan proyek dengan mengikuti langkah-langkah berikut:
 
 1. Jalankan skrip utama untuk melihat hasil eksperimen
