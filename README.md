@@ -17,12 +17,12 @@ Anda bisa menjalankan proyek dengan mengikuti langkah-langkah berikut:
     ```sh
     python tupro1.py
     ```
-## Hasil Eksperimen
+# Hasil Eksperimen
 Pengaplikasian fitur utama dalam GA yaitu:
 - Implementasi GA dari awal
 - Fitur seleksi, crossover, dan mutasi
 
-## Kontak
+# Kontak
 email: anandafitri00@gmail.com
 
 
